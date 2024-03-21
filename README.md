@@ -30,3 +30,5 @@
        -  So overall result is teh pc_parts CNN model is perfectly train/test.
 
 - **And Finally**, :- Trained CNN model demonstrates promising performance on [dataset], achieving [accuracy/loss] of [value] on validation data with limited overfitting potential. Further evaluation on a larger dataset is recommended.
+
+- ![Training and  validation loss](https://github.com/kunalkapade01/Artificial-intelligence-AI-/assets/107420977/ee2ac5d9-a62c-4826-8a4d-954479b1211a)
