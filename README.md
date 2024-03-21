@@ -36,6 +36,6 @@
 
 ![Training and  validation accuracy](https://github.com/kunalkapade01/Artificial-intelligence-AI-/assets/107420977/24bae14e-56fb-4428-bcfd-99667dc8ceb9)
 
-  - Training and validation Loss:
+    -  Training and validation Loss:
 ![Training and  validation loss](https://github.com/kunalkapade01/Artificial-intelligence-AI-/assets/107420977/f1439269-621a-4f7c-8642-73443ead0dcf)
 
