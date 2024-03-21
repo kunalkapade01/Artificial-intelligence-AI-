@@ -26,5 +26,5 @@
 - **In Summary** :
     - The pc_parts Convolutional Neural Network (CNN) models in both graphs show good potential for classification, achieving accuracy/loss and also validation accuracy.
     -  Using graph it can show the Training, validation accuracy and Training, validation Loss
-       --  While in train the model it can 50 epochs only, but the accuracy is definetly increases / and loss also decreses, So overall result is teh pc_parts CNN model is perfectly train/test.
+        - -  While in train the model it can 50 epochs only, but the accuracy is definetly increases / and loss also decreses, So overall result is teh pc_parts CNN model is perfectly train/test.
   
