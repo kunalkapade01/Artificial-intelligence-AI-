@@ -3,8 +3,8 @@
              To develop a CNN-based model for classifying PC parts images into categories such as cables, case, CPU, GPU, RAM, etc.
   
 - **Technologies and Tools** :
-    Python
-    TensorFlow
+     -  Python
+     - TensorFlow
     CNN (Convolutional Neural Networks)
     ImageDataGenerator: For Data augmentation techniques (such as rescale, rotation_range, flipping, scaling and range)
     Layers: such as Conv2D, MaxPool2D, Flatten, Dense
