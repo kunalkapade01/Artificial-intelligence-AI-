@@ -28,4 +28,5 @@
     -  Using graph it can show the Training, validation accuracy and Training, validation Loss
        -  While in train the model it can 50 epochs only, but the accuracy is definetly increases / and loss also decreses.
        -  So overall result is teh pc_parts CNN model is perfectly train/test.
-  
+
+- **And Finally**, :- Trained CNN model demonstrates promising performance on [dataset], achieving [accuracy/loss] of [value] on validation data with limited overfitting potential. Further evaluation on a larger dataset is recommended.
