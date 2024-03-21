@@ -16,8 +16,8 @@
     - Datasets URL:  https://www.kaggle.com/datasets/asaniczka/pc-parts-images-dataset-classification
  
  - **Data Generator** :
-        - In data generato for the training and test sets from flow_from_directory
-        - It can be generate data in train_generator and test_generator, then we found the images belonging to 14 class for train and test
+    - In data generato for the training and test sets from flow_from_directory
+    - It can be generate data in train_generator and test_generator, then we found the images belonging to 14 class for train and test
 
 - **CNN model** :
          - We can create the CNN sequential model, we can use the layes, Conv2D, MaxPool2D, Flatten and Dense layes
