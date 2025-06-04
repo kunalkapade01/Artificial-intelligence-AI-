@@ -1,10 +1,10 @@
- # **PC_Parts Classification Using Convolutional Neural Networks (CNN)**
+# **PC_Parts Classification Using Convolutional Neural Networks (CNN-AI)**
 -  **Objective**:
                   -   To develop a CNN-based model for classifying PC parts images into categories such as cables, case, CPU, GPU, RAM, etc.
    
   
 - **Technologies and Tools** :
-     - Python
+     - Advanced Python 
      - TensorFlow
      - CNN (Convolutional Neural Networks)
      - ImageDataGenerator: For Data augmentation techniques (such as rescale, rotation_range, flipping, scaling and range)
