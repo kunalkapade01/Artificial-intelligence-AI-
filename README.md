@@ -7,6 +7,7 @@
      - Advanced Python 
      - TensorFlow
      - CNN (Convolutional Neural Networks)
+     - Artificial Intelligence (AI)
      - ImageDataGenerator: For Data augmentation techniques (such as rescale, rotation_range, flipping, scaling and range)
      - Layers: such as Conv2D, MaxPool2D, Flatten, Dense
        -GitHub for version control and collaboration
