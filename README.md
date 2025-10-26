@@ -4,12 +4,12 @@
    
   
 - **Technologies and Tools** :
-     - Advanced Python 
-     - TensorFlow
+     - Advanced Python - Numpy, Pandas.
+     - TensorFlow Library
      - CNN (Convolutional Neural Networks)
      - Artificial Intelligence (AI)
      - ImageDataGenerator: For Data augmentation techniques (such as rescale, rotation_range, flipping, scaling and range)
-     - Layers: such as Conv2D, MaxPool2D, Flatten, Dense
+     - Layers: such as Conv2D, MaxPool2D, Flatten, Dense, etc..
        -GitHub for version control and collaboration
 
 - **Datasets**:
