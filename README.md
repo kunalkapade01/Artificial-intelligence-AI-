@@ -10,7 +10,7 @@
      - Artificial Intelligence (AI)
      - ImageDataGenerator: For Data augmentation techniques (such as rescale, rotation_range, flipping, scaling and range)
      - Layers: such as Conv2D, MaxPool2D, Flatten, Dense, etc..
-       -GitHub for version control and collaboration
+     - GitHub for version control and collaboration
 
 - **Datasets**:
     - In pc_parts datasets there are the 14 classess for training the data, and in there 14 class there is multiple images.
